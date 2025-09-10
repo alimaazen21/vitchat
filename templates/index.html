@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAPTCHA Login</title>
+</head>
+<body>
+    <h2>Please solve the CAPTCHA to login</h2>
+    
+    <!-- Display the CAPTCHA Image -->
+    <img src="{{ url_for('static', filename='captcha.jpg') }}" alt="Captcha Image">
+
+    <form action="{{ url_for('submit_captcha') }}" method="POST">
+        <label for="captcha">Enter CAPTCHA:</label>
+        <input type="text" id="captcha" name="captcha" required><br><br>
+
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required><br><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

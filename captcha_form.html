@@ -1,0 +1,67 @@
+
+    <html>
+    <head>
+        <title>Captcha Form</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-top: 50px;
+            }
+            .form-container {
+                padding: 20px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                width: 300px;
+                background-color: #f9f9f9;
+            }
+            input[type="text"], input[type="password"], input[type="captcha"] {
+                width: 100%;
+                padding: 8px;
+                margin: 10px 0;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+            }
+            button {
+                padding: 10px 20px;
+                background-color: #4CAF50;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+            button:hover {
+                background-color: #45a049;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="form-container">
+            <h2>Login Form</h2>
+            <form id="captchaForm">
+                <label>Username:</label>
+                <input type="text" id="username" value="ALIMAAZEN" readonly><br>
+                <label>Password:</label>
+                <input type="password" id="password" value="Abcd@1234567" readonly><br>
+                <label>Captcha:</label><br>
+                <img src="data:image/jpeg;base64,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" alt="Captcha Image" /><br><br>
+                <input type="text" id="captcha" placeholder="Enter Captcha" required><br><br>
+                <button type="button" onclick="submitCaptcha()">Submit</button>
+            </form>
+        </div>
+        <script>
+            function submitCaptcha() {
+                var captcha = document.getElementById('captcha').value;
+                if (captcha) {
+                    window.opener.postMessage({captcha: captcha}, '*');
+                    window.close();
+                } else {
+                    alert('Please enter the captcha');
+                }
+            }
+        </script>
+    </body>
+    </html>
+    

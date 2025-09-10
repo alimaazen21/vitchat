@@ -1,0 +1,12 @@
+S.NO	Course Code	Course Name	Attended Classes	Total Classes	Percentage
+====================================================================================================
+1	BCSE204L	Design and Analysis of Algorithms	34	41	82.93
+2	BCSE204P	Design and Analysis of Algorithms Lab	20	26	76.92
+3	BCSE301L	Software Engineering	35	42	83.33
+4	BCSE301P	Software Engineering Lab	20	26	76.92
+5	BCSE303L	Operating Systems	29	37	78.38
+7	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	33	40	82.5
+8	BMAT202L	Probability and Statistics	30	39	76.92
+9	BMAT202P	Probability and Statistics Lab	26	30	86.67
+10	BSTS301P	Advanced Competitive Coding – I	34	42	80.95
+Current Credits (This semester): 27.5

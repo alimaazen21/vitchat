@@ -1,0 +1,52 @@
+S.NO	Course Code	Course Name	Course Type	Grade	Credit
+================================================================================
+1	BCHY101L	Engineering Chemistry	FCBSM	B	3.0
+2	BCHY101P	Engineering Chemistry Lab	FCBSM	A	1.0
+3	BCSE101E	Computer Programming: Python	FCBES	A	3.0
+4	BCSE101N	Introduction to Engineering	NGCR	P	1.0
+5	BEEE102L	Basic Electrical and Electronics Engineering	FCBES	A	3.0
+6	BEEE102P	Basic Electrical and Electronics Engineering Lab	FCBES	S	1.0			
+8	BMAT101L	Calculus	FCBSM	B	3.0
+9	BMAT101P	Calculus Lab	FCBSM	A	1.0
+10	BSTS201P	Qualitative Skills Practice I	FCHSSM	B	1.5
+11	BCHY102N	Environmental Sciences	NGCR	P	2.0
+12	BCSE102L	Structured and Object-Oriented Programming	FCBES	B	2.0
+13	BCSE102P	Structured and Object-Oriented Programming Lab	FCBES	A	2.0
+14	BECE102L	Digital Systems Design	DLES	B	3.0
+15	BECE102P	Digital Systems Design Lab	DLES	B	1.0
+16	BENG101L	Technical English Communication	FCHSSM	B	2.0
+17	BENG101P	Technical English Communication Lab	FCHSSM	A	1.0
+18	BMAT102L	Differential Equations and Transforms	FCBSM	A	4.0
+19	BPHY101L	Engineering Physics	FCBSM	B	3.0
+20	BPHY101P	Engineering Physics Lab	FCBSM	B	1.0
+21	BSTS101P	Quantitative Skills Practice I	FCHSSM	B	1.5
+22	BCSE103E	Computer Programming: Java	FCBES	B	3.0
+23	BCSE202L	Data Structures and Algorithms	DC	A	3.0
+24	BCSE202P	Data Structures and Algorithms Lab	DC	B	1.0
+25	BCSE205L	Computer Architecture and Organization	DC	A	3.0
+26	BCSE303L	Operating Systems	DC	N1	3.0
+27	BCSE303P	Operating Systems Lab	DC	A	1.0
+28	BECE204L	Microprocessors and Microcontrollers	DLES	B	3.0
+29	BECE204P	Microprocessors and Microcontrollers Lab	DLES	S	1.0
+30	BGER101L	German I	FCHSSM	S	2.0
+31	BMAT205L	Discrete Mathematics and Graph Theory	DLES	A	4.0
+32	BSTS202P	Qualitative Skills Practice II	FCHSSM	E	1.5
+33	AEXC144N	English Arts and Literature	NGCR	P	2.0
+34	BCSE203E	Web Programming	DC	A	3.0
+35	BCSE302L	Database Systems	DC	B	3.0
+36	BCSE302P	Database Systems Lab	DC	A	1.0
+37	BCSE304L	Theory of Computation	DC	A	3.0
+38	BCSE308L	Computer Networks	DC	B	3.0
+39	BCSE308P	Computer Networks Lab	DC	S	1.0
+40	BCSE420L	Sensors, Actuators and Signal Conditioning	SPE	A	2.0
+41	BCSE420P	Sensors, Actuators and Signal Conditioning Lab	SPE	S	1.0
+42	BMAT201L	Complex Variables and Linear Algebra	FCBSM	B	4.0
+43	BSSC101N	Essence of Traditional Knowledge	NGCR	P	2.0
+44	BSTS102P	Quantitative Skills Practice II	FCHSSM	C	1.5
+
+Grade Points: S=10, A=9, B=8, C=7, D=6, E=5, F=0, N1=0, P=None(not considered for cgpa calculation)
+
+
+Credits Registered: 85.0
+Credits Earned: 82.0
+Current CGPA: 8.20

@@ -1,0 +1,317 @@
+S.NO	Course Code	Course Name	Date	Slot	Day and Time	Status====================================================================================================
+1	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	15-Nov-2024	TA2	FRI,15:50-16:40	Present
+2	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	13-Nov-2024	A2	WED,14:55-15:45	Absent
+3	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	11-Nov-2024	A2	MON,14:00-14:50	Present
+4	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	08-Nov-2024	TA2	FRI,15:50-16:40	Absent
+5	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	06-Nov-2024	A2	WED,14:55-15:45	On Duty
+6	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	04-Nov-2024	A2	MON,14:00-14:50	Absent
+7	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	25-Oct-2024	TA2	FRI,15:50-16:40	Present
+8	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	23-Oct-2024	A2	WED,14:55-15:45	Present
+9	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	21-Oct-2024	A2	MON,14:00-14:50	Present
+10	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	09-Oct-2024	A2	WED,14:55-15:45	Absent
+11	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	07-Oct-2024	A2	MON,14:00-14:50	Present
+12	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	04-Oct-2024	TA2	FRI,15:50-16:40	Absent
+13	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	30-Sep-2024	A2	MON,14:00-14:50	Present
+14	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	27-Sep-2024	TA2	FRI,15:50-16:40	Present
+15	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	25-Sep-2024	A2	WED,14:55-15:45	Present
+16	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	23-Sep-2024	A2	MON,14:00-14:50	Present
+17	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	18-Sep-2024	A2	WED,14:55-15:45	Present
+	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N				
+19	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N		A2	WED,14:55-15:45	Present
+20	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	09-Sep-2024	A2	MON,14:00-14:50	On Duty
+21	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	06-Sep-2024	TA2	FRI,15:50-16:40	Present
+22	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	04-Sep-2024	A2	WED,14:55-15:45	Present
+23	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	02-Sep-2024	A2	MON,14:00-14:50	Present
+24	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	23-Aug-2024	TA2	FRI,15:50-16:40	Present
+25	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	21-Aug-2024	A2	WED,14:55-15:45	Present
+26	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	19-Aug-2024	A2	MON,14:00-14:50	Present
+27	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	16-Aug-2024	TA2	FRI,15:50-16:40	Present
+28	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	14-Aug-2024	A2	WED,14:55-15:45	Absent
+29	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	12-Aug-2024	A2	MON,14:00-14:50	Present
+30	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	09-Aug-2024	TA2	FRI,15:50-16:40	Present
+31	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	07-Aug-2024	A2	WED,14:55-15:45	Present
+32	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	05-Aug-2024	A2	MON,14:00-14:50	On Duty
+33	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	02-Aug-2024	TA2	FRI,15:50-16:40	Present
+34	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	31-Jul-2024	A2	WED,14:55-15:45	Absent
+35	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	29-Jul-2024	A2	MON,14:00-14:50	Present
+36	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	26-Jul-2024	TA2	FRI,15:50-16:40	Present
+37	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	24-Jul-2024	A2	WED,14:55-15:45	Present
+38	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	22-Jul-2024	A2	MON,14:00-14:50	Present
+39	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	19-Jul-2024	TA2	FRI,15:50-16:40	Present
+40	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	17-Jul-2024	A2	WED,14:55-15:45	Present
+41	BCSE204L	Design and Analysis of Algorithms	SIVARAMAKRISHNAN N	15-Jul-2024	A2	MON,14:00-14:50	Present
+1	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	14-Nov-2024	L21+L22	THU,10:00-11:40	Present
+2	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	07-Nov-2024	L21+L22	THU,10:00-11:40	Absent
+3	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	24-Oct-2024	L21+L22	THU,10:00-11:40	Present
+4	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	10-Oct-2024	L21+L22	THU,10:00-11:40	Present
+5	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	03-Oct-2024	L21+L22	THU,10:00-11:40	Present
+6	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	26-Sep-2024	L21+L22	THU,10:00-11:40	Absent
+7	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	12-Sep-2024	L21+L22	THU,10:00-11:40	Present
+8	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	05-Sep-2024	L21+L22	THU,10:00-11:40	Present
+9	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	22-Aug-2024	L21+L22	THU,10:00-11:40	Absent
+10	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	08-Aug-2024	L21+L22	THU,10:00-11:40	Present
+11	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	01-Aug-2024	L21+L22	THU,10:00-11:40	Present
+12	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	25-Jul-2024	L21+L22	THU,10:00-11:40	Present
+13	BCSE204P	Design and Analysis of Algorithms Lab	SIVARAMAKRISHNAN N	18-Jul-2024	L21+L22	THU,10:00-11:40	Present
+6	BCSE301L	Software Engineering	PRAVEEN JOE I R	04-Nov-2024	TG2	MON,17:40-18:30	Absent
+7	BCSE301L	Software Engineering	PRAVEEN JOE I R	24-Oct-2024	G2	THU,15:50-16:40	Present
+8	BCSE301L	Software Engineering	PRAVEEN JOE I R	22-Oct-2024	G2	TUE,14:55-15:45	Present
+9	BCSE301L	Software Engineering	PRAVEEN JOE I R	21-Oct-2024	TG2	MON,17:40-18:30	Present
+10	BCSE301L	Software Engineering	PRAVEEN JOE I R	10-Oct-2024	G2	THU,15:50-16:40	Present
+11	BCSE301L	Software Engineering	PRAVEEN JOE I R	08-Oct-2024	G2	TUE,14:55-15:45	Present
+12	BCSE301L	Software Engineering	PRAVEEN JOE I R	07-Oct-2024	TG2	MON,17:40-18:30	Absent
+13	BCSE301L	Software Engineering	PRAVEEN JOE I R	03-Oct-2024	G2	THU,15:50-16:40	Present
+14	BCSE301L	Software Engineering	PRAVEEN JOE I R	01-Oct-2024	G2	TUE,14:55-15:45	Absent
+15	BCSE301L	Software Engineering	PRAVEEN JOE I R	30-Sep-2024	TG2	MON,17:40-18:30	Absent
+16	BCSE301L	Software Engineering	PRAVEEN JOE I R	26-Sep-2024	G2	THU,15:50-16:40	Absent
+17	BCSE301L	Software Engineering	PRAVEEN JOE I R	24-Sep-2024	G2	TUE,14:55-15:45	Present
+	BCSE301L	Software Engineering	PRAVEEN JOE I R				
+19	BCSE301L	Software Engineering	PRAVEEN JOE I R		TG2	MON,17:40-18:30	Present
+20	BCSE301L	Software Engineering	PRAVEEN JOE I R	12-Sep-2024	G2	THU,15:50-16:40	On Duty
+21	BCSE301L	Software Engineering	PRAVEEN JOE I R	10-Sep-2024	G2	TUE,14:55-15:45	Present
+22	BCSE301L	Software Engineering	PRAVEEN JOE I R	09-Sep-2024	TG2	MON,17:40-18:30	Present
+23	BCSE301L	Software Engineering	PRAVEEN JOE I R	05-Sep-2024	G2	THU,15:50-16:40	Present
+24	BCSE301L	Software Engineering	PRAVEEN JOE I R	03-Sep-2024	G2	TUE,14:55-15:45	Present
+25	BCSE301L	Software Engineering	PRAVEEN JOE I R	02-Sep-2024	TG2	MON,17:40-18:30	Present
+26	BCSE301L	Software Engineering	PRAVEEN JOE I R	22-Aug-2024	G2	THU,15:50-16:40	Present
+27	BCSE301L	Software Engineering	PRAVEEN JOE I R	20-Aug-2024	G2	TUE,14:55-15:45	Present
+28	BCSE301L	Software Engineering	PRAVEEN JOE I R	19-Aug-2024	TG2	MON,17:40-18:30	Present
+29	BCSE301L	Software Engineering	PRAVEEN JOE I R	13-Aug-2024	G2	TUE,14:55-15:45	Present
+30	BCSE301L	Software Engineering	PRAVEEN JOE I R	12-Aug-2024	TG2	MON,17:40-18:30	Present
+31	BCSE301L	Software Engineering	PRAVEEN JOE I R	08-Aug-2024	G2	THU,15:50-16:40	Present
+32	BCSE301L	Software Engineering	PRAVEEN JOE I R	06-Aug-2024	G2	TUE,14:55-15:45	Present
+33	BCSE301L	Software Engineering	PRAVEEN JOE I R	05-Aug-2024	TG2	MON,17:40-18:30	Present
+34	BCSE301L	Software Engineering	PRAVEEN JOE I R	01-Aug-2024	G2	THU,15:50-16:40	Present
+35	BCSE301L	Software Engineering	PRAVEEN JOE I R	30-Jul-2024	G2	TUE,14:55-15:45	Present
+36	BCSE301L	Software Engineering	PRAVEEN JOE I R	29-Jul-2024	TG2	MON,17:40-18:30	Present
+37	BCSE301L	Software Engineering	PRAVEEN JOE I R	25-Jul-2024	G2	THU,15:50-16:40	Present
+38	BCSE301L	Software Engineering	PRAVEEN JOE I R	23-Jul-2024	G2	TUE,14:55-15:45	Present
+39	BCSE301L	Software Engineering	PRAVEEN JOE I R	22-Jul-2024	TG2	MON,17:40-18:30	Present
+40	BCSE301L	Software Engineering	PRAVEEN JOE I R	18-Jul-2024	G2	THU,15:50-16:40	Present
+41	BCSE301L	Software Engineering	PRAVEEN JOE I R	16-Jul-2024	G2	TUE,14:55-15:45	Present
+42	BCSE301L	Software Engineering	PRAVEEN JOE I R	15-Jul-2024	TG2	MON,17:40-18:30	Present
+1	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	14-Nov-2024	L19+L20	THU,08:00-09:40	Present
+2	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	07-Nov-2024	L19+L20	THU,08:00-09:40	Absent
+3	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	24-Oct-2024	L19+L20	THU,08:00-09:40	Absent
+4	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	10-Oct-2024	L19+L20	THU,08:00-09:40	Present
+5	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	03-Oct-2024	L19+L20	THU,08:00-09:40	Present
+6	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	26-Sep-2024	L19+L20	THU,08:00-09:40	Absent
+7	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	12-Sep-2024	L19+L20	THU,08:00-09:40	Present
+8	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	05-Sep-2024	L19+L20	THU,08:00-09:40	Present
+9	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	22-Aug-2024	L19+L20	THU,08:00-09:40	Present
+10	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	08-Aug-2024	L19+L20	THU,08:00-09:40	Present
+11	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	01-Aug-2024	L19+L20	THU,08:00-09:40	Present
+12	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	25-Jul-2024	L19+L20	THU,08:00-09:40	Present
+13	BCSE301P	Software Engineering Lab	PRAVEEN JOE I R	18-Jul-2024	L19+L20	THU,08:00-09:40	Present
+1	BCSE303L	Operating Systems	MONICA	13-Nov-2024	F2	WED,15:50-16:40	Present
+2	BCSE303L	Operating Systems	MONICA	04-Nov-2024	F2	MON,14:55-15:45	Absent
+3	BCSE303L	Operating Systems	MONICA	25-Oct-2024	TF2	FRI,16:45-17:35	Absent
+4	BCSE303L	Operating Systems	MONICA	23-Oct-2024	F2	WED,15:50-16:40	Present
+5	BCSE303L	Operating Systems	MONICA	21-Oct-2024	F2	MON,14:55-15:45	Present
+6	BCSE303L	Operating Systems	MONICA	09-Oct-2024	F2	WED,15:50-16:40	Absent
+7	BCSE303L	Operating Systems	MONICA	07-Oct-2024	F2	MON,14:55-15:45	Present
+8	BCSE303L	Operating Systems	MONICA	04-Oct-2024	TF2	FRI,16:45-17:35	Absent
+9	BCSE303L	Operating Systems	MONICA	30-Sep-2024	F2	MON,14:55-15:45	Present
+10	BCSE303L	Operating Systems	MONICA	27-Sep-2024	TF2	FRI,16:45-17:35	Present
+11	BCSE303L	Operating Systems	MONICA	25-Sep-2024	F2	WED,15:50-16:40	Absent
+12	BCSE303L	Operating Systems	MONICA	23-Sep-2024	F2	MON,14:55-15:45	Present
+13	BCSE303L	Operating Systems	MONICA	18-Sep-2024	F2	WED,15:50-16:40	Present
+14	BCSE303L	Operating Systems	MONICA	16-Sep-2024	F2	MON,14:55-15:45	Present
+15	BCSE303L	Operating Systems	MONICA	11-Sep-2024	F2	WED,15:50-16:40	Present
+16	BCSE303L	Operating Systems	MONICA	09-Sep-2024	F2	MON,14:55-15:45	On Duty
+17	BCSE303L	Operating Systems	MONICA	06-Sep-2024	TF2	FRI,16:45-17:35	Present
+	BCSE303L	Operating Systems	MONICA				
+19	BCSE303L	Operating Systems	MONICA		F2	MON,14:55-15:45	Present
+20	BCSE303L	Operating Systems	MONICA	23-Aug-2024	TF2	FRI,16:45-17:35	Present
+21	BCSE303L	Operating Systems	MONICA	21-Aug-2024	F2	WED,15:50-16:40	Present
+22	BCSE303L	Operating Systems	MONICA	19-Aug-2024	F2	MON,14:55-15:45	Present
+23	BCSE303L	Operating Systems	MONICA	16-Aug-2024	TF2	FRI,16:45-17:35	Absent
+24	BCSE303L	Operating Systems	MONICA	14-Aug-2024	F2	WED,15:50-16:40	Absent
+25	BCSE303L	Operating Systems	MONICA	12-Aug-2024	F2	MON,14:55-15:45	Present
+26	BCSE303L	Operating Systems	MONICA	09-Aug-2024	TF2	FRI,16:45-17:35	Present
+27	BCSE303L	Operating Systems	MONICA	07-Aug-2024	F2	WED,15:50-16:40	Present
+28	BCSE303L	Operating Systems	MONICA	05-Aug-2024	F2	MON,14:55-15:45	On Duty
+29	BCSE303L	Operating Systems	MONICA	02-Aug-2024	TF2	FRI,16:45-17:35	Present
+30	BCSE303L	Operating Systems	MONICA	31-Jul-2024	F2	WED,15:50-16:40	Absent
+31	BCSE303L	Operating Systems	MONICA	29-Jul-2024	F2	MON,14:55-15:45	Present
+32	BCSE303L	Operating Systems	MONICA	26-Jul-2024	TF2	FRI,16:45-17:35	Present
+33	BCSE303L	Operating Systems	MONICA	24-Jul-2024	F2	WED,15:50-16:40	Present
+34	BCSE303L	Operating Systems	MONICA	22-Jul-2024	F2	MON,14:55-15:45	Present
+35	BCSE303L	Operating Systems	MONICA	19-Jul-2024	TF2	FRI,16:45-17:35	Present
+36	BCSE303L	Operating Systems	MONICA	17-Jul-2024	F2	WED,15:50-16:40	Present
+37	BCSE303L	Operating Systems	MONICA	15-Jul-2024	F2	MON,14:55-15:45	Present
+2				BCSE204P	Design and Analysis of Algorithms Lab	TUE,14:00-14:50	Absent
+3				11-Nov-2024	TB2	MON,16:45-17:35	Present
+4				07-Nov-2024	B2	THU,14:55-15:45	Present
+5				05-Nov-2024	B2	TUE,14:00-14:50	Present
+6				04-Nov-2024	TB2	MON,16:45-17:35	Absent
+7				24-Oct-2024	B2	THU,14:55-15:45	Absent
+8				22-Oct-2024	B2	TUE,14:00-14:50	Present
+9				21-Oct-2024	TB2	MON,16:45-17:35	Absent
+10				10-Oct-2024	B2	THU,14:55-15:45	Present
+11				08-Oct-2024	B2	TUE,14:00-14:50	Present
+12				07-Oct-2024	TB2	MON,16:45-17:35	Present
+13				03-Oct-2024	B2	THU,14:55-15:45	Present
+14				01-Oct-2024	B2	TUE,14:00-14:50	Absent
+15				30-Sep-2024	TB2	MON,16:45-17:35	Absent
+16				26-Sep-2024	B2	THU,14:55-15:45	Present
+17				24-Sep-2024	B2	TUE,14:00-14:50	Absent
+							
+19					TB2	MON,16:45-17:35	Present
+20				12-Sep-2024	B2	THU,14:55-15:45	On Duty
+21				10-Sep-2024	B2	TUE,14:00-14:50	Present
+22				09-Sep-2024	TB2	MON,16:45-17:35	Absent
+23				05-Sep-2024	B2	THU,14:55-15:45	Present
+24				03-Sep-2024	B2	TUE,14:00-14:50	Present
+25				02-Sep-2024	TB2	MON,16:45-17:35	Present
+26				22-Aug-2024	B2	THU,14:55-15:45	Present
+27				20-Aug-2024	B2	TUE,14:00-14:50	Present
+28				19-Aug-2024	TB2	MON,16:45-17:35	Present
+29				13-Aug-2024	B2	TUE,14:00-14:50	Present
+30				12-Aug-2024	TB2	MON,16:45-17:35	Present
+31				08-Aug-2024	B2	THU,14:55-15:45	Present
+32				06-Aug-2024	B2	TUE,14:00-14:50	Present
+33				05-Aug-2024	TB2	MON,16:45-17:35	Present
+34				01-Aug-2024	B2	THU,14:55-15:45	Present
+35				30-Jul-2024	B2	TUE,14:00-14:50	Absent
+36				29-Jul-2024	TB2	MON,16:45-17:35	Present
+37				25-Jul-2024	B2	THU,14:55-15:45	Present
+38				23-Jul-2024	B2	TUE,14:00-14:50	Present
+39				22-Jul-2024	TB2	MON,16:45-17:35	Present
+40				18-Jul-2024	B2	THU,14:55-15:45	Present
+1	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	15-Nov-2024	C2	FRI,14:55-15:45	Present
+2	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	13-Nov-2024	C2	WED,14:00-14:50	Present
+3	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	12-Nov-2024	TC2	TUE,16:45-17:35	Absent
+4	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	08-Nov-2024	C2	FRI,14:55-15:45	Present
+5	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	06-Nov-2024	C2	WED,14:00-14:50	On Duty
+6	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	05-Nov-2024	TC2	TUE,16:45-17:35	Absent
+7	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	25-Oct-2024	C2	FRI,14:55-15:45	Present
+8	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	23-Oct-2024	C2	WED,14:00-14:50	Present
+9	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	22-Oct-2024	TC2	TUE,16:45-17:35	Present
+10	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	09-Oct-2024	C2	WED,14:00-14:50	Present
+11	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	08-Oct-2024	TC2	TUE,16:45-17:35	Present
+12	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	04-Oct-2024	C2	FRI,14:55-15:45	Absent
+13	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	01-Oct-2024	TC2	TUE,16:45-17:35	Absent
+14	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	27-Sep-2024	C2	FRI,14:55-15:45	Present
+15	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	25-Sep-2024	C2	WED,14:00-14:50	Present
+16	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	24-Sep-2024	TC2	TUE,16:45-17:35	Absent
+17	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	18-Sep-2024	C2	WED,14:00-14:50	Present
+18	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	11-Sep-2024	C2	WED,14:00-14:50	Present
+19	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	10-Sep-2024	TC2	TUE,16:45-17:35	Present
+	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI				
+	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI				
+22	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	03-Sep-2024	TC2	TUE,16:45-17:35	Present
+23	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	23-Aug-2024	C2	FRI,14:55-15:45	Present
+24	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	21-Aug-2024	C2	WED,14:00-14:50	Present
+25	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	20-Aug-2024	TC2	TUE,16:45-17:35	Present
+26	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	16-Aug-2024	C2	FRI,14:55-15:45	Present
+27	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	14-Aug-2024	C2	WED,14:00-14:50	Absent
+28	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	13-Aug-2024	TC2	TUE,16:45-17:35	Present
+29	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	09-Aug-2024	C2	FRI,14:55-15:45	Present
+30	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	07-Aug-2024	C2	WED,14:00-14:50	Present
+31	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	06-Aug-2024	TC2	TUE,16:45-17:35	Present
+32	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	02-Aug-2024	C2	FRI,14:55-15:45	Present
+33	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	31-Jul-2024	C2	WED,14:00-14:50	Present
+34	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	30-Jul-2024	TC2	TUE,16:45-17:35	Absent
+35	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	26-Jul-2024	C2	FRI,14:55-15:45	Present
+36	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	24-Jul-2024	C2	WED,14:00-14:50	Present
+37	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	23-Jul-2024	TC2	TUE,16:45-17:35	Present
+38	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	19-Jul-2024	C2	FRI,14:55-15:45	Present
+39	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	17-Jul-2024	C2	WED,14:00-14:50	Present
+40	BCSE421L	Robotics: Kinematics, Dynamics and Motion Control	GANALA SANTOSHI	16-Jul-2024	TC2	TUE,16:45-17:35	Present
+1	BMAT202L	Probability and Statistics	DEVI YAMINI S	15-Nov-2024	E2	FRI,14:00-14:50	Absent
+2	BMAT202L	Probability and Statistics	DEVI YAMINI S	14-Nov-2024	TE2	THU,16:45-17:35	Absent
+3	BMAT202L	Probability and Statistics	DEVI YAMINI S	12-Nov-2024	E2	TUE,15:50-16:40	Absent
+4	BMAT202L	Probability and Statistics	DEVI YAMINI S	08-Nov-2024	E2	FRI,14:00-14:50	Present
+5	BMAT202L	Probability and Statistics	DEVI YAMINI S	07-Nov-2024	TE2	THU,16:45-17:35	Present
+6	BMAT202L	Probability and Statistics	DEVI YAMINI S	05-Nov-2024	E2	TUE,15:50-16:40	Absent
+7	BMAT202L	Probability and Statistics	DEVI YAMINI S	25-Oct-2024	E2	FRI,14:00-14:50	Present
+8	BMAT202L	Probability and Statistics	DEVI YAMINI S	24-Oct-2024	TE2	THU,16:45-17:35	Absent
+9	BMAT202L	Probability and Statistics	DEVI YAMINI S	22-Oct-2024	E2	TUE,15:50-16:40	Present
+10	BMAT202L	Probability and Statistics	DEVI YAMINI S	10-Oct-2024	TE2	THU,16:45-17:35	Present
+11	BMAT202L	Probability and Statistics	DEVI YAMINI S	08-Oct-2024	E2	TUE,15:50-16:40	Absent
+12	BMAT202L	Probability and Statistics	DEVI YAMINI S	04-Oct-2024	E2	FRI,14:00-14:50	Absent
+13	BMAT202L	Probability and Statistics	DEVI YAMINI S	03-Oct-2024	TE2	THU,16:45-17:35	Present
+14	BMAT202L	Probability and Statistics	DEVI YAMINI S	01-Oct-2024	E2	TUE,15:50-16:40	Absent
+15	BMAT202L	Probability and Statistics	DEVI YAMINI S	27-Sep-2024	E2	FRI,14:00-14:50	Present
+16	BMAT202L	Probability and Statistics	DEVI YAMINI S	26-Sep-2024	TE2	THU,16:45-17:35	Present
+17	BMAT202L	Probability and Statistics	DEVI YAMINI S	24-Sep-2024	E2	TUE,15:50-16:40	Present
+18	BMAT202L	Probability and Statistics	DEVI YAMINI S	12-Sep-2024	TE2	THU,16:45-17:35	On Duty
+19	BMAT202L	Probability and Statistics	DEVI YAMINI S	10-Sep-2024	E2	TUE,15:50-16:40	Present
+20	BMAT202L	Probability and Statistics	DEVI YAMINI S	06-Sep-2024	E2	FRI,14:00-14:50	Present
+21	BMAT202L	Probability and Statistics	DEVI YAMINI S	05-Sep-2024	TE2	THU,16:45-17:35	Present
+22	BMAT202L	Probability and Statistics	DEVI YAMINI S	03-Sep-2024	E2	TUE,15:50-16:40	Present
+	BMAT202L	Probability and Statistics	DEVI YAMINI S				
+	BMAT202L	Probability and Statistics	DEVI YAMINI S				
+25	BMAT202L	Probability and Statistics	DEVI YAMINI S	20-Aug-2024	E2	TUE,15:50-16:40	Present
+26	BMAT202L	Probability and Statistics	DEVI YAMINI S	16-Aug-2024	E2	FRI,14:00-14:50	Present
+27	BMAT202L	Probability and Statistics	DEVI YAMINI S	13-Aug-2024	E2	TUE,15:50-16:40	Present
+28	BMAT202L	Probability and Statistics	DEVI YAMINI S	09-Aug-2024	E2	FRI,14:00-14:50	Present
+29	BMAT202L	Probability and Statistics	DEVI YAMINI S	08-Aug-2024	TE2	THU,16:45-17:35	Present
+30	BMAT202L	Probability and Statistics	DEVI YAMINI S	06-Aug-2024	E2	TUE,15:50-16:40	Present
+31	BMAT202L	Probability and Statistics	DEVI YAMINI S	02-Aug-2024	E2	FRI,14:00-14:50	Present
+32	BMAT202L	Probability and Statistics	DEVI YAMINI S	01-Aug-2024	TE2	THU,16:45-17:35	Present
+33	BMAT202L	Probability and Statistics	DEVI YAMINI S	30-Jul-2024	E2	TUE,15:50-16:40	Absent
+34	BMAT202L	Probability and Statistics	DEVI YAMINI S	26-Jul-2024	E2	FRI,14:00-14:50	Present
+35	BMAT202L	Probability and Statistics	DEVI YAMINI S	25-Jul-2024	TE2	THU,16:45-17:35	Present
+36	BMAT202L	Probability and Statistics	DEVI YAMINI S	23-Jul-2024	E2	TUE,15:50-16:40	Present
+37	BMAT202L	Probability and Statistics	DEVI YAMINI S	19-Jul-2024	E2	FRI,14:00-14:50	Present
+38	BMAT202L	Probability and Statistics	DEVI YAMINI S	18-Jul-2024	TE2	THU,16:45-17:35	Present
+39	BMAT202L	Probability and Statistics	DEVI YAMINI S	16-Jul-2024	E2	TUE,15:50-16:40	Present
+1	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	11-Nov-2024	L3+L4	MON,09:50-11:30	Present
+2	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	04-Nov-2024	L3+L4	MON,09:50-11:30	Present
+3	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	21-Oct-2024	L3+L4	MON,09:50-11:30	Present
+4	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	07-Oct-2024	L3+L4	MON,09:50-11:30	Present
+5	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	30-Sep-2024	L3+L4	MON,09:50-11:30	Present
+6	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	23-Sep-2024	L3+L4	MON,09:50-11:30	Present
+7	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	16-Sep-2024	L3+L4	MON,09:50-11:30	Present
+8	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	09-Sep-2024	L3+L4	MON,09:50-11:30	On Duty
+9	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	02-Sep-2024	L3+L4	MON,09:50-11:30	Present
+10	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	19-Aug-2024	L3+L4	MON,09:50-11:30	Present
+11	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	12-Aug-2024	L3+L4	MON,09:50-11:30	Present
+12	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	05-Aug-2024	L3+L4	MON,09:50-11:30	Absent
+13	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	29-Jul-2024	L3+L4	MON,09:50-11:30	Absent
+14	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	22-Jul-2024	L3+L4	MON,09:50-11:30	Present
+15	BMAT202P	Probability and Statistics Lab	DEVI YAMINI S	15-Jul-2024	L3+L4	MON,09:50-11:30	Present
+1	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	14-Nov-2024	D2	THU,14:00-14:50	Present
+2	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	13-Nov-2024	TD2	WED,16:45-17:35	Present
+3	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	11-Nov-2024	D2	MON,15:50-16:40	Present
+4	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	07-Nov-2024	D2	THU,14:00-14:50	Present
+5	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	06-Nov-2024	TD2	WED,16:45-17:35	Absent
+6	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	04-Nov-2024	D2	MON,15:50-16:40	Absent
+7	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	24-Oct-2024	D2	THU,14:00-14:50	Absent
+8	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	23-Oct-2024	TD2	WED,16:45-17:35	Absent
+9	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	21-Oct-2024	D2	MON,15:50-16:40	Absent
+10	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	10-Oct-2024	D2	THU,14:00-14:50	Present
+11	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	09-Oct-2024	TD2	WED,16:45-17:35	Present
+12	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	07-Oct-2024	D2	MON,15:50-16:40	Present
+13	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	03-Oct-2024	D2	THU,14:00-14:50	Present
+14	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	30-Sep-2024	D2	MON,15:50-16:40	Present
+15	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	26-Sep-2024	D2	THU,14:00-14:50	Present
+16	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	25-Sep-2024	TD2	WED,16:45-17:35	Present
+17	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	23-Sep-2024	D2	MON,15:50-16:40	Present
+18	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	18-Sep-2024	TD2	WED,16:45-17:35	Present
+19	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	16-Sep-2024	D2	MON,15:50-16:40	Present
+20	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	12-Sep-2024	D2	THU,14:00-14:50	On Duty
+21	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	11-Sep-2024	TD2	WED,16:45-17:35	Present
+22	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	09-Sep-2024	D2	MON,15:50-16:40	Absent
+23	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	05-Sep-2024	D2	THU,14:00-14:50	Present
+24	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	04-Sep-2024	TD2	WED,16:45-17:35	Absent
+25	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	02-Sep-2024	D2	MON,15:50-16:40	Present
+26	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	22-Aug-2024	D2	THU,14:00-14:50	Present
+27	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	21-Aug-2024	TD2	WED,16:45-17:35	Present
+	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)				
+	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)				
+30	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	12-Aug-2024	D2	MON,15:50-16:40	Present
+31	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	08-Aug-2024	D2	THU,14:00-14:50	Present
+32	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	07-Aug-2024	TD2	WED,16:45-17:35	Present
+33	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	05-Aug-2024	D2	MON,15:50-16:40	Present
+34	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	01-Aug-2024	D2	THU,14:00-14:50	Present
+35	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	31-Jul-2024	TD2	WED,16:45-17:35	Present
+36	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	29-Jul-2024	D2	MON,15:50-16:40	Present
+37	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	25-Jul-2024	D2	THU,14:00-14:50	Present
+38	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	24-Jul-2024	TD2	WED,16:45-17:35	Present
+39	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	22-Jul-2024	D2	MON,15:50-16:40	Present
+40	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	18-Jul-2024	D2	THU,14:00-14:50	Present
+41	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	17-Jul-2024	TD2	WED,16:45-17:35	Present
+42	BSTS301P	Advanced Competitive Coding – I	ETHNUS (APT)	15-Jul-2024	D2	MON,15:50-16:40	Present
