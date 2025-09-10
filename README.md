@@ -28,12 +28,12 @@ VitChat is conversational and intuitive. You can interact naturally, just like c
 
 ## Screenshots
 
-![](screenshots/1.png)  
-![](screenshots/2.png)
-![](screenshots/3.png)  
-![](screenshots/4.png)
-![](screenshots/5.png)
-![](screenshots/6.png)
+![](screenshots/1.jpg)  
+![](screenshots/2.jpg)
+![](screenshots/3.jpg)  
+![](screenshots/4.jpg)
+![](screenshots/5.jpg)
+![](screenshots/6.jpg)
 
 
 ---
