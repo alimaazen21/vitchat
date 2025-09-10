@@ -50,12 +50,3 @@ VitChat is conversational and intuitive. You can interact naturally, just like c
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve VitChat.
 
----
-
-## License
-
-Specify your license here (e.g., MIT License)
-
----
-
-*Built with ❤️ for VITC students.*
